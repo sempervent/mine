@@ -1,0 +1,11 @@
+Package: mine
+Title: A Collection of Useful Functions
+Version: 0.0.0.9000 
+Authors@R:  person(given = "Joshua",
+           family = "Grant",
+           role = c("aut", "cre"),
+           email = "jngrant@live.com")
+Description: Includes a variety of functions frequently used by myself.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
